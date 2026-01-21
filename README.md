@@ -390,9 +390,11 @@ Debes generar **un único archivo de evidencia**, dentro de tu carpeta personal.
   La salida del comando de Git **antes y después** de la enmienda, de forma que se pueda comprobar el cambio de mensaje.
 
 - Al recoger la primera evidencia creamos el archivo de evidencias.
-        `comando git > log_hito7.log`
+  bash ```
+      comando git > log_hito7.log ```
 - En la segunda lo modificamos añadiendo la segunda evidencia en el mismo archivo.
-        `otro_comando git >> log_hito7.log`
+  bash ```
+      otro_comando git >> log_hito7.log ```
 
 ### ✅ Criterios de evaluación
 
