@@ -2,7 +2,7 @@
 Ayl, NOMBRE
 Crmn, NOMBRE
 Drnd, NOMBRE
-Spñ, NOMBRE
+Spñ, Jose
 Grc-Arvl, NOMBRE
 Gmz, NOMBRE
 Gnzlz, NOMBRE
